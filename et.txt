@@ -1,3 +1,6 @@
 the first file
 this done on github
 great start
+trying it out on linux mint
+
+
